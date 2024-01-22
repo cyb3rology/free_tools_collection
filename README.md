@@ -4,7 +4,7 @@ Hello OSINT fans! While there are many startme and OSINT collection lists out th
 Don’t forget to check out my Medium @cyb3rology for loads of cool cyber stuff, including OSINT.
 
 
-<h1>Social media</h1>
+<h2>Social media</h2>
 
 **Facebook**
 
