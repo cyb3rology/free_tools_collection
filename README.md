@@ -11,6 +11,6 @@ Enjoy and don’t forget to check out my Medium @cyb3rology for loads of cool cy
 
 |      Link     |     Notes     |     Interface     |
 | ------------- | ------------- | ------------- |
-| [Dumplt Blue+](https://chrome.google.com/webstore/detail/dumpitblue%2B/igmgknoioooacbcpcfgjigbaajpelbfe/related) | DumpItBlue is a tool that helps to scroll Facebook and reveal id numbers  |
-| [Fdown](https://fdown.net) | Facebook video downloader |
-| [Whopostedwhat](https://whopostedwhat.com/) | A simplified Facebook search interface |
+| [Dumplt Blue+](https://chrome.google.com/webstore/detail/dumpitblue%2B/igmgknoioooacbcpcfgjigbaajpelbfe/related) | DumpItBlue is a tool that helps to scroll Facebook and reveal id numbers  | Extension
+| [Fdown](https://fdown.net) | Facebook video downloader | GUI
+| [Whopostedwhat](https://whopostedwhat.com/) | A simplified Facebook search interface | GUI
