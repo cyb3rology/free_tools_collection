@@ -17,6 +17,8 @@ Enjoy and don’t forget to check out my Medium [@cyb3rology](https://medium.com
 
 
 **X(formerly Twitter)**
+|      Link     |     Description     |     Notes     |   Interface   |
+| ------------- | -----------------   | ------------- | ------------- |
 | [Birdhunt](https://birdhunt.co/) | Select any location and get the recent tweets from that place |  | GUI
 | [Hashtagify](https://hashtagify.me/hashtag/summer) | Visualizes hashtags| While this tool has a paid version you can still get something with the free version | GUI
 | [Scoutzen](https://www.scoutzen.com) | Searches X lists by using key words |  | GUI
