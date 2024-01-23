@@ -27,4 +27,18 @@ Enjoy and don’t forget to check out my Medium [@cyb3rology](https://medium.com
 | [Onemilliontweetmap](https://onemilliontweetmap.com/) | Displays tweets on a map |  | GUI
 | [getdaytrends](https://getdaytrends.com/) | Shows trending hashtags in a specific country |  | GUI
 | [Twitter Archive](https://archive.org/details/twitterstream) | Archives of tweets since 2011 |  | GUI
-| [wayback tweets](https://waybacktweets.streamlit.app/) | A web interface to search tweets saved on http://archive.org |  | GUI
+| [Wayback tweets](https://waybacktweets.streamlit.app/) | A web interface to search tweets saved on http://archive.org |  | GUI
+| [Twitter spaces](https://spacesdown.com/) | To download Twitter spaces |  | GUI 
+| [Eight Dollars](https://github.com/wseagar/eight-dollars) | Tool that helps you tell the difference between actual verified accounts and paid blue users. |  | Extension
+
+**YouTube**
+|      Link     |     Description     |     Notes     |   Interface   |
+| ------------- | -----------------   | ------------- | ------------- |
+| [YouTube Lookup](https://youtube-lookup.vercel.app/) | A quick way to check the metadata of a YouTube video |  | GUI 
+| [YouTube Video Finder](https://findyoutubevideo.thetechrobo.ca/) | Search  resources for archived YouTube video |  | GUI
+
+
+
+
+
+
