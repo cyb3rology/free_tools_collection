@@ -36,6 +36,13 @@ Enjoy and don’t forget to check out my Medium [@cyb3rology](https://medium.com
 | ------------- | -----------------   | ------------- | ------------- |
 | [YouTube Lookup](https://youtube-lookup.vercel.app/) | A quick way to check the metadata of a YouTube video |  | GUI 
 | [YouTube Video Finder](https://findyoutubevideo.thetechrobo.ca/) | Search  resources for archived YouTube video |  | GUI
+| [Unlisted Videos](https://unlistedvideos.com/) | To find unlisted videos on YouTube |  | GUI 
+| [Youtube Actual Top Comments](https://chrome.google.com/webstore/detail/youtube-actual-top-commen/hbdmelobmfcompinikjdaiphhonbgfpn/) | Sorts comments by the number of likes |  | GUI 
+| [Comment finder](https://ytcomment.kmcat.uk/) | To quickly search keywords through comments |  | GUI  
+| [Comment Downloader](https://github.com/egbertbouman/youtube-comment-downloader) | Easy way to download comments without API key |  | CLI
+| [Hadzy](https://hadzy.com/) | To search comments and generates statistics and wordclouds from the comments section |  | GUI 
+| [youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) | Transcripts and subtitles |  | GUI
+
 
 
 
