@@ -42,7 +42,7 @@ Enjoy and don’t forget to check out my Medium [@cyb3rology](https://medium.com
 | [Comment Downloader](https://github.com/egbertbouman/youtube-comment-downloader) | Easy way to download comments without API key |  | CLI
 | [Hadzy](https://hadzy.com/) | To search comments and generates statistics and wordclouds from the comments section |  | GUI 
 | [youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) | Transcripts and subtitles |  | Python 
-| [YouTube Timestamp Comments](https://chrome.google.com/webstore/detail/youtube-timestamp-comment/khngjoedfeicfbjlcfmiigbokbnlibei/related) | Finds timestamp and arranges comments in chronological order (need an API key) |  | Extension
+| [YouTube Timestamp Comments](https://chrome.google.com/webstore/detail/youtube-timestamp-comment/khngjoedfeicfbjlcfmiigbokbnlibei/related) | Finds timestamp and arranges comments in chronological order  | You need API key | Extension
 | [Filmot](https://filmot.com) | YouTube subtitles search engine |  | GUI 
 | [YouTube_Tool ](https://github.com/nlitsme/youtube_tool) | Multipurpose tool |  | CLI
 
