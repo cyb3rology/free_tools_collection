@@ -26,4 +26,5 @@ Enjoy and don’t forget to check out my Medium [@cyb3rology](https://medium.com
 | [Scoutzen](https://www.scoutzen.com) | Searches X lists by using key words |  | GUI
 | [Onemilliontweetmap](https://onemilliontweetmap.com/) | Displays tweets on a map |  | GUI
 | [getdaytrends](https://getdaytrends.com/) | Shows trending hashtags in a specific country |  | GUI
-
+| [Twitter Archive](https://archive.org/details/twitterstream) | Archives of tweets since 2011 |  | GUI
+| [wayback tweets](https://waybacktweets.streamlit.app/) | A web interface to search tweets saved on http://archive.org |  | GUI
