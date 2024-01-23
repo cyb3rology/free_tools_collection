@@ -43,7 +43,17 @@ Enjoy and don’t forget to check out my Medium [@cyb3rology](https://medium.com
 | [Hadzy](https://hadzy.com/) | To search comments and generates statistics and wordclouds from the comments section |  | GUI 
 | [youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) | Transcripts and subtitles |  | Python 
 | [YouTube Timestamp Comments](https://chrome.google.com/webstore/detail/youtube-timestamp-comment/khngjoedfeicfbjlcfmiigbokbnlibei/related) | Finds timestamp and arranges comments in chronological order (need an API key) |  | Extension
-| [youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) | Transcripts and subtitles |  | Python 
+| [Filmot](https://filmot.com) | YouTube subtitles search engine |  | GUI 
+| [YouTube_Tool ](https://github.com/nlitsme/youtube_tool) | Multipurpose tool |  | CLI
+
+**YouTube**
+|      Link     |     Description     |     Notes     |   Interface   |
+| ------------- | -----------------   | ------------- | ------------- |
+| [Reddit User Analyzer](https://reddit-user-analyser.netlify.app/) | Multipurpose Reddit analyzer including activity Statistics |  | GUI  
+| [Subreddit stats](https://subredditstats.com/subreddit-user-overlaps/) | Lists how a subreddit overlaps with other subreddits |  | GUI
+| [Map of Reddit](https://anvaka.github.io/map-of-reddit/?x=18239&y=12514&z=46488.09635705632&v=2) | Visualizes interactions on Reddit |  | GUI
+| [Better Reddit Search](https://betterredditsearch.web.app/) | A simple interface for Reddit search |  | GUI
+
 
 
 
