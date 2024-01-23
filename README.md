@@ -52,7 +52,13 @@ Enjoy and don’t forget to check out my Medium [@cyb3rology](https://medium.com
 | [Reddit User Analyzer](https://reddit-user-analyser.netlify.app/) | Multipurpose Reddit analyzer including activity Statistics |  | GUI  
 | [Subreddit stats](https://subredditstats.com/subreddit-user-overlaps/) | Lists how a subreddit overlaps with other subreddits |  | GUI
 | [Map of Reddit](https://anvaka.github.io/map-of-reddit/?x=18239&y=12514&z=46488.09635705632&v=2) | Visualizes interactions on Reddit |  | GUI
-| [Better Reddit Search](https://betterredditsearch.web.app/) | A simple interface for Reddit search |  | GUI
+| [Better Reddit Search](https://betterredditsearch.web.app/) | A simple interface for Reddit search |  | GUI    
+| [Reveddit](https://www.reveddit.com/) | Search by username or subreddit to reveal Reddit's removed content |  | GUI  
+| [Redetective](https://www.redective.com/) | Reddit search tool |  | GUI   
+| [Reditmetis](https://redditmetis.com/) | View statistics fot Reddit users's account |  | GUI
+| [Later for Reddit](https://dashboard.laterforreddit.com/analysis) | Subreddit Top Post Analysis |  | GUI    
+| [Reddit Comment Search](https://redditcommentsearch.com) | Reddit Comment Search |  | GUI
+
 
 
 
